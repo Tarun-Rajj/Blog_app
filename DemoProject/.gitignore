@@ -1,0 +1,7 @@
+venv
+pyvenv.cfg
+Scripts
+Lib
+__pycache__
+__init__.py 
+manage.py
